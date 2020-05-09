@@ -5,7 +5,7 @@
 2. [The canon article from The Crhonicle of HighEd by By James M. Lang](https://www.chronicle.com/article/4-Steps-to-a-Memorable/124199)
 3. [A great resource with rubrics and samples from the University of Minnesotta](https://cei.umn.edu/writing-your-teaching-philosophy)
 4. [A YouTube video from Iowa State University featuring Professor. Susan Yager](https://www.youtube.com/watch?v=tbqS25mHCiM&feature=emb_logo)
-5. [__Developing Your Teaching Statement__ slides by Erin Dokter, The University of Arizona](https://oia.arizona.edu/sites/default/files/2018-01/teachingstatement.pdf)
+5. [_Developing Your Teaching Statement_ slides by Erin Dokter, The University of Arizona](https://oia.arizona.edu/sites/default/files/2018-01/teachingstatement.pdf)
 6. [More resourvces from The University of Arizona](https://facultyaffairs.arizona.edu/content/teaching-portfolios-and-reviews)
 7. ...
 
@@ -30,4 +30,8 @@
 ## Collaborative learning
 1. Barkley, Major, & Cross (2014). Collaborative learning techniques: A handbook for college faculty.
 2. [Pieters, J., Voogt, J., & Pareja Roblin, N. (2019). Collaborative curriculum design for sustainable innovation and teacher learning (p. 424). Springer Nature.](https://link.springer.com/book/10.1007/978-3-030-20062-6)
-3. ...
+3. [Gokhale, A. A. (1995). Collaborative learning enhances critical thinking. Journal of Technology Education, 7(1), 22–30.](https://doi.org/10.21061/jte.v7i1.a.2)
+4. [Resta, P., & Laferrière, T. (2007). Technology in support of collaborative learning. Educational Psychology Review, 19(1), 65-83.](https://link.springer.com/article/10.1007/s10648-007-9042-7)
+5. [MacKnight, C. B. (2000). Teaching critical thinking through online discussions. Educause Quarterly, 23(4), 38-41.](http://eac595b.pbworks.com/f/macknight+2000+questions[1].pdf)
+6. ...
+
