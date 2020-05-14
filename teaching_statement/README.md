@@ -1,3 +1,7 @@
+# Checkout my teaching philosophy statement in the following links
+1. [First version with references](https://github.com/damian-romero/Ph.D.-Portfolio/blob/master/teaching_statement/Philosophy%20of%20Teaching%20Statement%2005-2020.pdf)
+2. [Version revised by Dr. King de Ramirez]()
+
 # Resources for writing a teaching philosophy statement
 
 ## Teaching Philosophy Statement
